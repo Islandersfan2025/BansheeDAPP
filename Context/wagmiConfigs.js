@@ -16,7 +16,7 @@ const projectId = process.env.NEXT_PUBLIC_WALLET_CONNECT;
 
 export const config = getDefaultConfig({
   appName: "Ticket AirDrops",
-  projectId: 407ad484121444a915446cdba6bfa9af,
+  projectId: "407ad484121444a915446cdba6bfa9af",
   chains: [moonbaseAlpha],
   ssr: true,
 });
