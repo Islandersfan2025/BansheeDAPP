@@ -1,19 +1,19 @@
 [
   {
-    "name": "Celestial Dragons",
+    "name": "Celestial Dragon",
     "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
     "category": "Rock",
     "creator": "0x687c5F5E6cA49CaC4D7079d5273803c25bC80C61",
     "description": "A mythical dragon that roams the cosmos, adorned with constellations and celestial light",
-    "image": "https://gateway.pinata.cloud/ipfs/bafybeibwavcdogg4f6dbzvfe46vxoxzzzua4v7wljklx4v4yjvv2xfznne"
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeifhkuidiekjydcv5gzu4o56guguivkbb27woroskdjk4rdtp7f544"
   },
   {
-    "name": "Pete Myers",
+    "name": "Loon One",
     "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
     "category": "Hip-Hop/RAP",
     "creator": "0x687c5F5E6cA49CaC4D7079d5273803c25bC80C61",
     "description": "A futuristic warrior clad in neon armor, ready to battle in the streets of a cyberpunk city",
-    "image": "https://gateway.pinata.cloud/ipfs/bafybeibwavcdogg4f6dbzvfe46vxoxzzzua4v7wljklx4v4yjvv2xfznne"
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeid6kz3hxldv42e24qzy4h5igzfcmaforo5xxtlhjoj2ydetyrdqmy"
   },
   {
     "name": "Galactic Voyagers",
@@ -37,15 +37,15 @@
     "category": "R&B",
     "creator": "0x687c5F5E6cA49CaC4D7079d5273803c25bC80C61",
     "description": "A beautiful flower that never withers, symbolizing immortality and endless beauty.",
-    "image": "https://gateway.pinata.cloud/ipfs/QmaNS34mzBoS3aWqU3uc6cv3wL9hmzBYUYcN7e2uESCE8H"
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeihmkuryxiw6svwepnezfe35twuircipsnakzyvavxgtfelyku3524"
   },
   {
-    "name": "The Pixie Cats",
+    "name": "The Pixie Cat",
     "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
     "category": "Rock",
     "creator": "0x687c5F5E6cA49CaC4D7079d5273803c25bC80C61",
     "description": "A pixelated robotic cat designed to be your virtual companion in a digital world.",
-    "image": "https://gateway.pinata.cloud/ipfs/bafybeibbse7p4drxf546j4f2jj3rsjmjjsxcsxwm5tohu3syouvbtjk3t4"
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibgtounf5w7hwwcb4dklnh2lvhjy55ttf6tsijkigfi6lwwijfblq"
   },
   {
     "name": "Mark Guardio",
