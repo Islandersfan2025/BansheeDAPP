@@ -78,7 +78,7 @@ const About = () => {
                       <span className="uk-text-overline uk-text-gradient">
                         Audius Artists
                       </span>
-                      <h3 className="uk-h3 uk-h1@m"><a href="">
+                      <h3 className="uk-h3 uk-h1@m"><a href="https://islandersfan2025.github.io/AudiusPass/">
                         AUDIUS PASSPORT 
                       </a></h3>
                       <p className="uk-text-large@m">
