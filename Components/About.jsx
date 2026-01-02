@@ -78,9 +78,9 @@ const About = () => {
                       <span className="uk-text-overline uk-text-gradient">
                         Audius Artists
                       </span>
-                      <h3 className="uk-h3 uk-h1@m">
-                        Sync your Audius Profile 
-                      </h3>
+                      <h3 className="uk-h3 uk-h1@m"><a href="">
+                        AUDIUS PASSPORT 
+                      </a></h3>
                       <p className="uk-text-large@m">
                         Banshee makes it easy for artists on Audius to sell tickets to their performances.
                         You can create a rewards program for your followers or sell subscriptions for access to your music.
