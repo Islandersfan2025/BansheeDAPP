@@ -76,13 +76,13 @@ const About = () => {
                   <div className="uk-flex-first@m">
                     <div className="uk-panel">
                       <span className="uk-text-overline uk-text-gradient">
-                        Audius Artists
+                        Banshees
                       </span>
                       <h3 className="uk-h3 uk-h1@m"><a href="https://islandersfan2025.github.io/AudiusPass/">
-                        AUDIUS PASSPORT 
+                        ARTIST PASSPORT 
                       </a></h3>
                       <p className="uk-text-large@m">
-                        Banshee makes it easy for artists on Audius to sell tickets to their performances.
+                        Banshee makes it easy for artists on other platforms to sell tickets to their performances.
                         You can create a rewards program for your followers or sell subscriptions for access to your music.
                         Set up a collection of your tickets now!
                       </p>
