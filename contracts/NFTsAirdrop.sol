@@ -38,7 +38,7 @@ contract NFTsAirDrop is ERC721URIStorage, Ownable {
         _;
     }
 
-    constructor() ERC721("@theblockchaincoders", "@TBC") Ownable(msg.sender) {
+    constructor() ERC721("BansheeTicket", "BSH") Ownable(msg.sender) {
         admin = payable(msg.sender);
     }
 
