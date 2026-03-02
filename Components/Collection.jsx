@@ -62,7 +62,7 @@ const Collection = ({ setClaimNFT }) => {
           </div>
           <div className="uni-btn uk-margin-medium-top uk-margin-2xlarge-top@m uk-flex-center">
             <a
-              href="https://moonbase.moonscan.io/tx/0xf1e772e9fcdfbdeb285344ee97e61db36d0321a1ca7d14f05e1d380887e8a2d1"
+              href="https://repo.sourcify.dev/84532/0x1b606988Bf58949d4a892F00dcfF391656ca08C2"
               target="_blank"
               className="uk-button uk-button-small uk-button-large@m uk-button-gradient"
             >
