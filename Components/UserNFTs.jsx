@@ -51,7 +51,7 @@ const UserNFTs = ({ GET_USER_OWN_NFTS, address }) => {
                       NFT ID: {nft?.tokenId}
                     </span>
                     <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">
-                      By @theblockchaincoders
+                      By Banshee Music Labs
                     </span>
                   </div>
                 </div>
